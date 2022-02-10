@@ -1,0 +1,32 @@
+2022-02-10 12:25:59,351 INFO c.s.a.u.Log [main] ************************   StartedTest  ***********************************
+2022-02-10 12:26:08,316 INFO c.s.a.u.Log [main] Created Instance of Chrome WebDriver
+2022-02-10 12:26:09,750 INFO c.s.a.u.Log [main] Successfully launched URL:https://slackassignment-group.slack.com/
+2022-02-10 12:26:10,811 INFO c.s.a.u.Log [main] Successfully entered ashimnanda19@gmail.com in the login Email field.
+2022-02-10 12:26:11,271 INFO c.s.a.u.Log [main] Successfully entered password in the login Password field at workspace Url Sign in page.
+2022-02-10 12:26:13,168 INFO c.s.a.u.Log [main] Successfully clicked on the Sign In button.
+2022-02-10 12:26:23,872 INFO c.s.a.u.Log [main] ************************   Started MethodslackAssignmentTask  ***********************************
+2022-02-10 12:26:24,619 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:26:26,678 INFO c.s.a.u.Log [main] Successfully selected Channel with ID:C031P0YMHNY
+2022-02-10 12:26:26,792 INFO c.s.a.u.Log [main] Clicked on Message Input Box
+2022-02-10 12:26:27,126 INFO c.s.a.u.Log [main] Entered Text in Message Input Box
+2022-02-10 12:26:27,472 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:26:29,500 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:26:32,295 INFO c.s.a.u.Log [main] Successfully hovered on element: LastMessage
+2022-02-10 12:26:32,295 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:26:34,548 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:26:37,388 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:26:39,760 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:26:41,931 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:26:43,948 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:26:48,226 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:26:50,624 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:26:52,731 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:26:54,771 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:26:59,071 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:27:01,624 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:27:03,745 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:27:05,746 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:27:08,080 INFO c.s.a.u.Log [main] Successfully clicked savedItems
+2022-02-10 12:27:08,080 INFO c.s.a.u.Log [main] Starting wait for page load
+2022-02-10 12:27:10,202 INFO c.s.a.u.Log [main] Test Case method slackAssignmentTask Passed
+2022-02-10 12:27:11,587 INFO c.s.a.u.Log [main] ************************   ENDTest  ***********************************

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SlackAutomationSuite]">
+  <parameter name="environment" value="assignment"/>
+  <parameter name="browser" value="Chrome"/>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.slack.assignment.testScripts.slackAutomationTask">
+        <methods>
+          <include name="setUp"/>
+          <include name="slackAssignmentTask"/>
+          <include name="loadProperties"/>
+          <include name="tearDown"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.slack.assignment.testScripts.slackAutomationTask -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [SlackAutomationSuite] -->
